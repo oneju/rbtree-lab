@@ -9,10 +9,6 @@ rbtree *new_rbtree(void) {
   nil->color = RBTREE_BLACK;
   p->root = nil;
   p->nil = nil;
-  node_t *nil = (node_t *)calloc(1, sizeof(node_t));
-  nil->color = RBTREE_BLACK;
-  p->root = nil;
-  p->nil = nil;
   return p;
 }
 
