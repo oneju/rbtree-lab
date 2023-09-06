@@ -3,6 +3,16 @@
 Balanced search tree로 많이 쓰이는 Red-black tree (이하 RB tree)를 C 언어로 구현하는 과제입니다.
 구현하는 추상 자료형 (ADT: abstract data type)은 ordered set, multiset 입니다.
 
+## 구현 계획
+### Red-Black Tree 개인 구현 계획
+Red-Black Tree를 구현하기 위해서 C언어를 학습하고 tree 구조를 미리 구현 후 RB tree 를 구현할 예정입니다.
+
+- 1일차 . C언어 학습
+- 2일차 . Queue, Stack 자료구조 구현
+- 3일차 . <CSAPP> 책 3,7,8 장 학습 (링커, 예외제어, 프로그램의 기계수준표현)
+- 4일차 . LinkedList, AVL 구현
+- 5-6일차 . RBtree 구현
+
 ## 구현 범위
 다음 기능들을 수행할 수 있도록 RB tree를 구현합니다.
 
